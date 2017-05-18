@@ -3,6 +3,6 @@ A Jupyter notebook based exploration of a play-by-play NFL dataset describing th
 
 Some Notes:
 
--I recommend starting with the Introduction notebook.
+- I recommend starting with the Introduction notebook.
 
--The Presentation notebook is based on a presentation I gave on this project
+- The Presentation notebook is based on a presentation I gave on this project
